@@ -122,20 +122,6 @@
 | Open Shading Language (OSL) | 着色语言 | 材质 / 光照 / displacement / 程序纹理 | 离线渲染体系常见 | [文档](https://open-shading-language.readthedocs.io/en/main/) |
 | OpenEXR | HDR 图像格式 | 高动态范围图像、AOV、多通道输出 | 影视与高质量渲染必备 | [官网](https://openexr.com/) |
 | OpenColorIO (OCIO) | 色彩管理 | 统一色彩空间与影视动画管线色彩管理 | VFX / animation 常用 | [官网](https://opencolorio.org/) |
-
-### 2.5 这部分里，哪些最值得你优先收藏
-
-如果你更偏 **mesh / implicit / robust geometry / solid geometry**，我建议优先收藏：
-
-1. **CGAL**  
-2. **libigl**  
-3. **geometry-central**  
-4. **OpenMesh**  
-5. **TetGen**  
-6. **OpenVDB / NanoVDB**  
-7. **Polyscope**  
-8. **Embree**  
-
 ---
 
 ## 3. 图形学相关数据库 / 数据集 / 资源仓库
