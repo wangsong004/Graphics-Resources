@@ -267,21 +267,6 @@
 | Ke-Sen Huang's Home Page / Resource for Computer Graphics | 论文索引 / 资源总表 | 收集很多 graphics 会议论文、视频、课程、海报、资源链接 | [主页](https://kesen.realtimerendering.com/) |
 | ACM SIGGRAPH Conferences | 官方会议入口 | 查 SIGGRAPH / SIGGRAPH Asia 会议主页与活动 | [官网](https://www.siggraph.org/siggraph-events/conferences/) |
 | Eurographics Conference Host | 官方会议入口 | 查 EGSR、Eurographics 等系列会议页 | [官网](https://conferences.eg.org/) |
-
-### 6.3 你这种方向最应该常开的几个网页
-
-如果你更偏 **几何处理 / mesh / implicit / robust geometry / 图形论文跟踪**，建议浏览器固定收藏：
-
-1. [CGAL](https://www.cgal.org/)  
-2. [libigl](https://libigl.github.io/)  
-3. [geometry-central](https://geometry-central.net/)  
-4. [OpenVDB](https://www.openvdb.org/)  
-5. [SGP](https://sgp26.org/)  
-6. [SIGGRAPH](https://www.siggraph.org/)  
-7. [Ke-Sen Huang 资源页](https://kesen.realtimerendering.com/)  
-8. [Inigo Quilez](https://iquilezles.org/)  
-9. [Scratchapixel](https://www.scratchapixel.com/)  
-
 ---
 
 ## 7. YouTube / 视频频道 / 播客
